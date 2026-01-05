@@ -9,7 +9,7 @@ Imported datasets of about *17 columns* and **200,000 rows** from Excel as a CSV
 Removed nulls and duplicates.
 Normalized text and corrected data types (numbers, currency, percentages, dates).
 Ensured acquisition cost values were consistent and rounded.
-![My Image Description](https://github.com/rofiahabdulaz/2021-Marketing-Performance-Analysis/blob/main/All%20DAX%20measures%20.png?raw=true)
+![My Image Description](https://github.com/rofiahabdulaz/2021-Marketing-Performance-Analysis/blob/main/Real%20Real%20Marketing%20Performance%20Dashboard.png?raw=true)
 
 # Date Table Creation
 - Created a dynamic Date Table covering the full year.
